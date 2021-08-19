@@ -14,6 +14,6 @@
     "renamediscord": "true IF YOU WANT false IF YOU DONT WANT",
     "imagediscord": "true IF YOU WANT false IF YOU DONT WANT",
     "nobaniddiscord": ["ID OF YOUR FRIENDS", "ID OF YOUR FRIENDS"],
-    "token": "TOKEN OF BOT"
+    "token": "TOKEN OF THE BOT"
 
 }
