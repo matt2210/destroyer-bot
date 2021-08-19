@@ -1,8 +1,6 @@
 /*
-
 Project : Crash-Bot
 Author : Sertinox
-
 */
 
 //INIT DISCORDJS
