@@ -20,6 +20,8 @@ npm install
 
 ## Usage
 
+EDIT FILE : config.json
+
 ```sh
 node index.js
 ```
