@@ -26,19 +26,14 @@ CONFIG FILE:
 ```sh
 node index.js
 ```
-## Help
-
-* Discord: [DISCORD](https://discord.gg/ktxPCdbgyu)
 
 ## Author
 
 👤 **Sertinox**
 
 * Github: [@SertiVS](https://github.com/SertiVS)
+* Discord: Sertinox#2684
 
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
