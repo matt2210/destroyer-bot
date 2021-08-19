@@ -20,11 +20,15 @@ npm install
 
 ## Usage
 
-EDIT FILE : config.json
+CONFIG FILE:
+```config.json```
 
 ```sh
 node index.js
 ```
+## Help
+
+* Discord: [DISCORD](https://discord.gg/ktxPCdbgyu)
 
 ## Author
 
