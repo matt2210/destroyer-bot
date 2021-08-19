@@ -1,0 +1,14 @@
+{
+  "name": "crash-bot",
+  "version": "1.0.0",
+  "description": "Crash Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sertinox",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
