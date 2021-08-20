@@ -19,10 +19,18 @@ npm install
 ```
 
 ## Usage
-
-CONFIG FILE:
+Step 1 : EDIT CONFIG FILE:
 ```config.json```
-
+edit this line (3) :
+```
+"commanddestroy": "COMMAND LAUNCH ATTACK",
+```
+with your command to destroy like you want for exemple : 
+```
+"commanddestroy": "!destroyallofmydiscodserver",
+```
+Step 2 : Save the file ! 
+Step 3 : Start the bot  
 ```sh
 node index.js
 ```
@@ -32,7 +40,7 @@ node index.js
 👤 **Sertinox**
 
 * Github: [@SertiVS](https://github.com/SertiVS)
-* Discord: Sertinox#2684
+* Discord: [Sertinox](https://discordapp.com/users/315494374429556737)
 
 ## Show your support
 
