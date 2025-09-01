@@ -1,0 +1,13 @@
+template:
+  - sensor:
+      - name: "Score OM vs LYON"
+        state: >
+          {% set team_name = states('sensor.om_team_name') or 'OM' %}
+          {% set team_score = states('sensor.om_team_score') | int %}
+          {% set opponent_name = states('sensor.om_opponent_name') or 'LYON' %}
+          {% set opponent_score = states('sensor.om_opponent_score') | int %}
+          {{ team_name }} {{ team_score }} - {{ opponent_score }} {{ opponent_name }}
+        icon: mdi:soccer
+        attributes:
+          kickoff: "{{ states('sensor.om_date') }}"
+          status: "{{ states('sensor.om_clock') }}"
